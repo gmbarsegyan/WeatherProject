@@ -1,0 +1,7 @@
+nest-asyncio
+aiohttp
+requests
+streamlit
+pandas
+numpy
+plotly
